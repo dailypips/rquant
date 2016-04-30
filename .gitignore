@@ -1,0 +1,28 @@
+.cargo
+target
+*~
+*#
+*.o
+*.so
+*.dylib
+*.dSYM
+*.dll
+*.dummy
+*.pkl
+*.pyc
+*.swp
+*.swo
+*.csv
+.DS_Store
+Cargo.lock
+# Editors
+
+# IntelliJ
+.idea
+*.iws
+
+# VSCode
+.vscode
+
+# Atom
+.atom
